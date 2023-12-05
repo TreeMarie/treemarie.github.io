@@ -19,9 +19,9 @@
     text-align: justify;
     font-size:100%;}
   .item-title{position: absolute;top:0;right: 0px;background: green; padding: 6px 90px;border-left: 2px solid #000;border-bottom: 2px solid #000;}
-  #title-one {background-color: #D59898;} 
-  #title-two{background-color: #C14543;}
-  #title-three{background-color: #DDA0DD;}
+  #title-one {background-color: #2E86C1;} 
+  #title-two {background-color: #148F77;}
+  #title-three {background-color: #F39C12;}
 
   /* Simple Responsive Framework. */
 .row {
