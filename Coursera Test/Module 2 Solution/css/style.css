@@ -19,14 +19,13 @@
     text-align: justify;
     font-size:100%;}
   .item-title{position: absolute;top:0;right: 0px;background: green; padding: 6px 90px;border-left: 2px solid #000;border-bottom: 2px solid #000;}
-  #title-one{background-color:#2E86C1;} 
-  #title-two{background-color:#148F77;}
-  #title-three{background-color:#F39C12;}
+  #title-one{background-color:#red;} 
+  #title-two{background-color:#blue}
+  #title-three{background-color:#green;}
 
   /* Simple Responsive Framework. */
 .row {
-  width: 100%;
-}
+  width: 100%;}
   /*------ Desktop ------*/
   @media (min-width: 992px){.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
       float: left;}
