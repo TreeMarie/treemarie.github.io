@@ -1,5 +1,5 @@
 *{box-sizing: border-box;margin:0;padding:0;}
-  
+
   body{font-family: 'Lato', sans-serif;}
   .row{width: 100%;}
   .menu-title{text-align: center;
@@ -41,15 +41,23 @@
     .col-lg-10 {width: 83.33%;}
     .col-lg-11 {width: 91.66%;}
     .col-lg-12 {width: 100%;}}
-  
+
   /*------ Tablet ------*/
-  @media (min-width: 768px) and (max-width: 991px)
-{.col-lg-4{ width: 50%;float: left;}
- .col-lg-tablet{width: 100%;float: left;}
-  }
-  
-  /*------ Mobile ------*/
-  @media (max-width: 767px)
-{.col-lg-4{width: 100%;float: left;}
+
+  @media (min-width: 768px) and (max-width: 991px){
+    .col-lg-4 {
+      width: 50%;
+      float: left;}
+    .col-lg-tablet{
+     width: 100%;
+     float: left;}
   }
 
+  /*------ Mobile ------*/
+
+  @media (max-width: 767px){
+    .col-lg-4{
+      width: 100%;
+      float: left;
+    }
+  }
