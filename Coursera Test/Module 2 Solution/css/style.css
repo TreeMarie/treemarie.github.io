@@ -56,8 +56,17 @@
   /*------ Mobile ------*/
 
   @media (max-width: 767px){
-    .col-lg-4{
+    .col-md-4{
       width: 100%;
       float: left;
     }
-  }
+  
+<div class="row">
+   <div class="col-md-4">
+      1
+   </div>
+   <div class="col-md-4">
+      2
+   </div>
+</div>
+    }
