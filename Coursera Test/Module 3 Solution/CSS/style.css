@@ -1,7 +1,7 @@
 body {
 	font-size: 16px;
 	color: white;
-	background-color: #8243d6;
+	background-color: #45B39D;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 #nav-list a:hover {
-	background-color: #8243d6;
+	background-color: #45B39D;
 }
 /* END HEADER */
 
