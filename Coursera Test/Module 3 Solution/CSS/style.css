@@ -1,13 +1,13 @@
 body {
 	font-size: 16px;
 	color: white;
-	background-color: #45B39D;
+	background-color: ##3C3485;
 	font-family: 'Lato', sans-serif;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #530fad;
+	background-color: #45B39D;
 	border-radius: 0;
 	border: 0;
 	color: white;
