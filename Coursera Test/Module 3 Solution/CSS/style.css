@@ -1,7 +1,5 @@
-body{
-	font-size: 16px;	
-  font-family: 'Lato', sans-serif;
-}
+body{font-size: 16px;	
+  font-family: 'Lato', sans-serif;}
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
   border: 2px solid #000 !important;
 }
@@ -62,7 +60,7 @@ body{
 }
 .menu-item{
   margin-bottom: 20px;
-  background:#999999;  
+  background:#3C3485;  
   padding: 10px;
 }
 .menu-item h4 {
