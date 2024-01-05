@@ -1,4 +1,10 @@
 body{
+	font-size: 16px;
+	color:#fff;
+	background-color: #61122f;	
+}
+
+body{
 	font-size: 16px;	
   font-family: 'Exo 2', sans-serif;
 }
