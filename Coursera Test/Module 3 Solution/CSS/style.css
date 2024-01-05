@@ -1,10 +1,12 @@
-body{font-size: 16px;	
-  font-family: 'Lato', sans-serif;}
+body{
+	font-size: 16px;	
+  font-family: 'Exo 2', sans-serif;
+}
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
   border: 2px solid #000 !important;
 }
 #header-nav{
-  background-color:##f3f6f4;  
+  background-color:#999999;  
   border:2px solid #000; 
   border-radius: 0;
 }
@@ -60,7 +62,7 @@ body{font-size: 16px;
 }
 .menu-item{
   margin-bottom: 20px;
-  background:#a2c4c9;  
+  background:#999999;  
   padding: 10px;
 }
 .menu-item h4 {
